@@ -1,3 +1,6 @@
+# Advance_Event_Management_System
+
+A complete event planning and management platform designed as my First BCA Project. This system helps users manage events efficiently with features like event booking, client management, vendor tracking, scheduling, and payment records.
 The Advance Event Management System is developed to simplify the process of organizing events such as weddings, conferences, seminars, birthday parties, corporate events, and more.
 It provides a centralized dashboard to manage clients, events, vendors, and budgets.
 
